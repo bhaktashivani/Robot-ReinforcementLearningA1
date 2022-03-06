@@ -3,9 +3,9 @@ Classical Control
 
 To complete this assignment, we will need to set up the environment as per the following requirements. 
 
-1. Set up python3.8 using conda and install the packages in a virtual environment. 
+- Set up python3.8 using conda and install the packages in a virtual environment. 
 
-**Packages for 2-Dof Arm **
+**Packages for 2-Dof Arm**
 
 To set up the 2-DOF arm, we will have to install the following dependency packages using pip.
 
